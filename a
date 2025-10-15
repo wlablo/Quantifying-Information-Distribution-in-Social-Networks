@@ -1,0 +1,24 @@
+Quantifying-Information-Distribution-in-Social-Networks/
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── data/
+│   └── Zandberg-20250308_174911.csv
+│
+├── notebooks/
+│   ├── 01_network_construction.ipynb
+│   ├── 02_centrality_and_entropy.ipynb
+│   └── 03_visualization_histograms.ipynb
+│
+├── figures/
+│   ├── fig_network_degree_circular.png
+│   ├── fig_network_betweenness_circular.png
+│   ├── fig_network_closeness_circular.png
+│   ├── hist_degree.png
+│   ├── hist_betweenness.png
+│   └── hist_closeness.png
+│
+└── paper/
+    ├── Title_22.pdf
+    └── paper_source.tex
